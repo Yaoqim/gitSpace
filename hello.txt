@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 hello! git  master
-=======
-hello! git demo-test
->>>>>>> demo-test
 hello! git
 hello! git  3334
